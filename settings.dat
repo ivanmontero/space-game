@@ -1,0 +1,11 @@
+fullscreen=false
+windowedWidth=1280
+windowedHeight=720
+initFOVWidth=2560
+initFOVHeight=1440
+antialiasing=off
+antialiasingSamples=16
+physicsMeterToPixels=25
+physicsDoSleep=true
+textAntialiasing=true
+fullResolutionFullscreen=true

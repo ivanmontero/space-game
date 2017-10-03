@@ -1,0 +1,105 @@
+[INFO] Operating system: windows 10
+[INFO] Using external file settings: true
+[WARNING] Settings file settings.dat not found. Creating new default settings file
+[INFO] Display mode set to: 1280 x 720 x 0 @0Hz fullscreen=false
+[INFO] Window successfully created
+[INFO] Window FOV set to: 2560 x 1440
+[INFO] OpenGL successfully initialized
+[INFO] Texture #0 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (1).gif
+[INFO] Texture #1 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (2).gif
+[INFO] Texture #2 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (3).gif
+[INFO] Texture #3 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (4).gif
+[INFO] Texture #4 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (5).gif
+[INFO] Texture #5 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (6).gif
+[INFO] Texture #6 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (7).gif
+[INFO] Texture #7 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (8).gif
+[INFO] Texture #8 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (9).gif
+[INFO] Texture #9 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (10).gif
+[INFO] Texture #10 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (11).gif
+[INFO] Texture #11 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (12).gif
+[INFO] Texture #12 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (13).gif
+[INFO] Texture #13 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (14).gif
+[INFO] Texture #14 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (15).gif
+[INFO] Texture #15 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (16).gif
+[INFO] Texture #16 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (17).gif
+[INFO] Texture #17 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (18).gif
+[INFO] Texture #18 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (19).gif
+[INFO] Texture #19 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (20).gif
+[INFO] Texture #20 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (21).gif
+[INFO] Texture #21 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (22).gif
+[INFO] Texture #22 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (23).gif
+[INFO] Texture #23 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (24).gif
+[INFO] Texture #24 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (25).gif
+[INFO] Texture #25 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (26).gif
+[INFO] Texture #26 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (27).gif
+[INFO] Texture #27 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (28).gif
+[INFO] Texture #28 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (29).gif
+[INFO] Texture #29 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (30).gif
+[INFO] Texture #30 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (31).gif
+[INFO] Texture #31 from texture set "rocket_fire" successfully loaded from: res/textures/rocket_fire/fire (32).gif
+[INFO] Texture #0 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (1).png
+[INFO] Texture #1 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (2).png
+[INFO] Texture #2 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (3).png
+[INFO] Texture #3 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (4).png
+[INFO] Texture #4 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (5).png
+[INFO] Texture #5 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (6).png
+[INFO] Texture #6 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (7).png
+[INFO] Texture #7 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (8).png
+[INFO] Texture #8 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (9).png
+[INFO] Texture #9 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (10).png
+[INFO] Texture #10 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (11).png
+[INFO] Texture #11 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (12).png
+[INFO] Texture #12 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (13).png
+[INFO] Texture #13 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (14).png
+[INFO] Texture #14 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (15).png
+[INFO] Texture #15 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (16).png
+[INFO] Texture #16 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (17).png
+[INFO] Texture #17 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (18).png
+[INFO] Texture #18 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (19).png
+[INFO] Texture #19 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (20).png
+[INFO] Texture #20 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (21).png
+[INFO] Texture #21 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (22).png
+[INFO] Texture #22 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (23).png
+[INFO] Texture #23 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (24).png
+[INFO] Texture #24 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (25).png
+[INFO] Texture #25 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (26).png
+[INFO] Texture #26 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (27).png
+[INFO] Texture #27 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (28).png
+[INFO] Texture #28 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (29).png
+[INFO] Texture #29 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (30).png
+[INFO] Texture #30 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (31).png
+[INFO] Texture #31 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (32).png
+[INFO] Texture #32 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (33).png
+[INFO] Texture #33 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (34).png
+[INFO] Texture #34 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (35).png
+[INFO] Texture #35 from texture set "explosion4" successfully loaded from: res/textures/explosions/explosion4/explosion (36).png
+[INFO] Texture "ship_hull" successfully loaded from: res/textures/ship/ship_hull.png
+[INFO] Texture "ship_window1_outline" successfully loaded from: res/textures/ship/ship_window1_outline.png
+[INFO] Texture "ship_window3" successfully loaded from: res/textures/ship/ship_window3.png
+[INFO] Texture "ship_window2_outline" successfully loaded from: res/textures/ship/ship_window2_outline.png
+[INFO] Texture "earth" successfully loaded from: res/textures/planets/Earth.png
+[INFO] Texture "missile_hull" successfully loaded from: res/textures/missile/missile_hull.png
+[INFO] Texture "ship_outline" successfully loaded from: res/textures/ship/ship_outline.png
+[INFO] Texture "ship_window2" successfully loaded from: res/textures/ship/ship_window2.png
+[INFO] Texture "ship_window3_outline" successfully loaded from: res/textures/ship/ship_window3_outline.png
+[INFO] Texture "ship_window1" successfully loaded from: res/textures/ship/ship_window1.png
+[INFO] Texture "missile_outline" successfully loaded from: res/textures/missile/missile_outline.png
+[INFO] Texture "ship_wings" successfully loaded from: res/textures/ship/ship_wings.png
+[INFO] Font "distantGalaxy" successfully loaded from: res/fonts/SF Distant Galaxy.ttf
+[INFO] Font "8bit" successfully loaded from: res/fonts/8BitFont.ttf
+[INFO] Font "text" successfully loaded from AWT: SansSerif.plain
+[INFO] Texture "crosshair" successfully loaded from: res/textures/crosshair.png
+[INFO] Font "distantGalaxy150" successfully derived from: distantGalaxy
+[INFO] Font "distantGalaxy30" successfully derived from: distantGalaxy
+[INFO] Font "distantGalaxy60" successfully derived from: distantGalaxy
+[INFO] Scene MENU successfully loaded
+[INFO] Font "distantGalaxy50" successfully derived from: distantGalaxy
+[INFO] Scene PLAYER_CREATION successfully loaded
+[INFO] Font "distantGalaxy300" successfully derived from: distantGalaxy
+[INFO] Scene PAUSE_MENU successfully loaded
+[INFO] Scene OUTER_SPACE successfully loaded
+[INFO] All scenes and resources successfully loaded
+[INFO] Initial scene set to MENU
+[INFO] Entering main game loop
+[INFO] Settings successfully saved to: settings.dat
+[INFO] Exiting
